@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+.wrapper {
+    font-size: 14px;
+    padding: 19px;
+    text-align: center;
+}
+
+
+.film {
+    margin-top: 15px;
+    color:red;
+
+}
+
+.film h2 {
+    font-size: 29px;
+}
+
+.film ul li {
+    list-style: none;
+}
